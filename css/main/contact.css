@@ -1,0 +1,56 @@
+/* exit */
+
+.exit{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.exit__link{
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 150px;
+    color: black;
+}
+
+.exit__link>span{
+    font-size: 30px;
+}
+
+
+/* contact */
+
+.contact{
+    margin-bottom: 200px;
+}
+
+.contact__inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sity{
+    font-weight: 600;
+    font-size: 48px;
+    color: #329FD9;
+}
+
+.contact__content>p{
+    font-size: 26px;
+    font-weight: 500;
+    color: #555151;
+}
+
+.tel-link, .email-link{
+    color: #555151;
+}
+
+.contact__content>p{
+    margin-top: 40px;
+}
+
+
+
+/* end-contact */
